@@ -21,6 +21,35 @@
 
 <br />
 
+## 🌟 Community Impact | التأثير المجتمعي
+
+<div align="center">
+
+[![Rank #3 – Top GitHub Users (Saudi Arabia)](https://img.shields.io/badge/Top%20GH%20(SA)-Rank%20%233-1a365d?logo=github&labelColor=0ea5e9&color=1a365d)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/saudi_arabia.md)
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+- Ranked **#3** by public contributions in Saudi Arabia.
+- List timestamp: **2025-11-24 12:50 AM UTC**.
+- Profile: [@Fadil369](https://github.com/Fadil369)
+
+</td>
+<td width="50%" dir="rtl">
+
+- مصنف في **المرتبة #3** حسب المساهمات العامة في السعودية.
+- طابع زمني للقائمة: **2025-11-24 12:50 صباحاً UTC**.
+- الملف الشخصي: [@Fadil369](https://github.com/Fadil369)
+
+</td>
+</tr>
+</table>
+
+<br />
+
 ## 👋 Welcome | أهلاً بك
 
 <table>
