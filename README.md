@@ -2,8 +2,8 @@
 
 <img src="assets/brainsait-logo.png" alt="BrainSAIT — a brain connecting circuits and neural nodes" width="190" />
 
-# Dr. Mohamed El Fadil Abuagla
-### د. محمد الفاضل أبوعاقلة
+# Dr. Mohamed El Fadil
+### د. محمد الفاضل
 
 **A physician's perspective. A builder's mindset.**
 <br />
@@ -14,7 +14,8 @@ Physician · Founder & CEO, **BrainSAIT Ltd**
 **AI-native healthcare infrastructure for Saudi Arabia & MENA**
 
 [![BrainSAIT](https://img.shields.io/badge/BrainSAIT-111111?style=for-the-badge)](https://brainsait.de)
-[![Explore](https://img.shields.io/badge/Explore_my_work-E8F45A?style=for-the-badge)](https://fadil369.github.io)
+[![Profile](https://img.shields.io/badge/Dr._Fadil-E8F45A?style=for-the-badge)](https://elfadil.brainsait.de)
+[![Store](https://img.shields.io/badge/BrainSAIT_Store-111111?style=for-the-badge)](https://brainsait.daftra.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge)](https://www.linkedin.com/in/fadil369)
 [![Connect](https://img.shields.io/badge/Let's_connect-E8F45A?style=for-the-badge)](https://calendly.com/fadil369)
 
@@ -42,7 +43,7 @@ Through **BrainSAIT**, I'm building a digital nervous system for healthcare—co
 | --- | --- |
 | **#4 · Saudi public contributions** | **2,801 contributions**, gayanvoice community ranking · [27 June 2026 snapshot](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/saudi_arabia.md) |
 | **#12 · Saudi public commits** | **1,862 public commits** over the preceding year, committers.top · [27 September 2026 snapshot](https://committers.top/saudi_arabia) |
-| **InterSystems official applications digest** | **BRAINSAIT-LINC-FHIR**, credited to Mohamed El Fadil Abuagla · [June 2026 roundup, published 2 July](https://community.intersystems.com/post/intersystems-open-exchange-applications-digest-june-2026) |
+| **InterSystems official applications digest** | **BRAINSAIT-LINC-FHIR**, credited to Mohamed El Fadil · [June 2026 roundup, published 2 July](https://community.intersystems.com/post/intersystems-open-exchange-applications-digest-june-2026) |
 | **AI Agents for FHIR contest participant** | BRAINSAIT-LINC-FHIR registered in the [InterSystems May–June 2026 contest](https://openexchange.intersystems.com/contest/46) |
 
 <sub>Community rankings measure activity within each list's eligibility rules. Dates identify published snapshots.</sub>
@@ -80,7 +81,7 @@ Through **BrainSAIT**, I'm building a digital nervous system for healthcare—co
 <br />
 **تعلّم مهارة. ابنِ حول مشكلة حقيقية. قدّم حلاً نافعاً.**
 
-[Explore learning & solutions](https://fadil369.github.io) · [Discuss an implementation](https://calendly.com/fadil369)
+[Explore learning & solutions](https://brainsait.daftra.com) · [Discuss an implementation](https://calendly.com/fadil369)
 
 </div>
 
@@ -107,7 +108,9 @@ Research, teaching, and Arabic/English writing connect my clinical experience wi
 
 **Let's build together:** clinical AI evaluation · Arabic NLP · FHIR integration · provider identity · practical AI education.
 
-[LinkedIn](https://www.linkedin.com/in/fadil369) · [Book a conversation](https://calendly.com/fadil369) · [BrainSAIT](https://brainsait.de) · [X](https://x.com/brainsait369)
+[Personal profile](https://elfadil.brainsait.de) · [BrainSAIT](https://brainsait.de) · [Store](https://brainsait.daftra.com)
+
+[LinkedIn](https://www.linkedin.com/in/fadil369) · [Book a conversation](https://calendly.com/fadil369) · [X](https://x.com/brainsait369)
 
 <div align="center">
 
