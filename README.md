@@ -1,348 +1,146 @@
 <div align="center">
 
-# 🩺 Dr.El Fadil | د.محمدالفاضل
+# Dr. Mohamed El Fadil Abuagla
+### د. محمد الفاضل أبوعاقلة
 
-### Physician · Tech Entrepreneur · AI Innovator
-### طبيب · رائد أعمال تقني · مبتكر في الذكاء الاصطناعي
+**Physician · Founder & CEO, BrainSAIT Ltd · Healthcare AI Builder**
 
-<img src="https://komarev.com/ghpvc/?username=fadil369&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+**Building AI-native healthcare infrastructure for Saudi Arabia & MENA**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadil369)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/brainsait369)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fadil369)
-[![Calendly](https://img.shields.io/badge/-Book_Meeting-0069FF?style=flat-square&logo=googlecalendar&logoColor=white)](https://calendly.com/fadil369)
+طبيب ورائد أعمال تقني — أبني بنية تحتية صحية قائمة على الذكاء الاصطناعي للسعودية والمنطقة
 
----
+[![BrainSAIT](https://img.shields.io/badge/BrainSAIT-111111?style=for-the-badge&logoColor=E8F45A)](https://brainsait.de)
+[![Portfolio](https://img.shields.io/badge/Explore_my_work-E8F45A?style=for-the-badge&logoColor=111111)](https://fadil369.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge)](https://www.linkedin.com/in/fadil369)
+[![Meet](https://img.shields.io/badge/Let's_connect-E8F45A?style=for-the-badge)](https://calendly.com/fadil369)
 
-*"Transforming ideas into innovation, one solution at a time"*  
-*"تحويل الأفكار إلى ابتكار، حلّاً واحداً في كل مرة"*
-
-</div>
-
-<br />
-
-## 🌟 Community Impact | التأثير المجتمعي
-
-<div align="center">
-
-[![Rank #3 – Top GitHub Users (Saudi Arabia)](https://img.shields.io/badge/Top%20GH%20(SA)-Rank%20%233-1a365d?logo=github&labelColor=0ea5e9&color=1a365d)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/saudi_arabia.md)
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-- Ranked **#3** by public contributions in Saudi Arabia.
-- List timestamp: **2025-11-24 12:50 AM UTC**.
-- Profile: [@Fadil369](https://github.com/Fadil369)
-
-</td>
-<td width="50%" dir="rtl">
-
-- مصنف في **المرتبة #3** حسب المساهمات العامة في السعودية.
-- طابع زمني للقائمة: **2025-11-24 12:50 صباحاً UTC**.
-- الملف الشخصي: [@Fadil369](https://github.com/Fadil369)
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## 👋 Welcome | أهلاً بك
-
-<table>
-<tr>
-<td width="50%">
-
-I'm **Dr. Fadil**, a physician and founder of **BrainSAIT**—a digital healthcare incubator at the intersection of health, AI, and business.
-
-My mission is to leverage **collective intelligence**, **automation**, and **next-generation technology** to drive impactful solutions across healthcare, business, and beyond.
-
-**Core Focus:**
-- 🏥 Healthcare Digital Transformation
-- 🤖 AI-Powered Agentic Systems
-- 🌐 Bilingual Solutions (Arabic/English)
-- 🚀 SME & Startup Empowerment
-
-</td>
-<td width="50%" dir="rtl">
-
-أنا **د.فاضل**، طبيب ومؤسس **BrainSAIT**—حاضنة رقمية للرعاية الصحية تجمع بين الصحة والذكاء الاصطناعي والأعمال.
-
-رسالتي هي الاستفادة من **الذكاء الجماعي** و**الأتمتة** و**التقنيات المتقدمة** لتقديم حلول مؤثرة في الرعاية الصحية والأعمال وما بعدها.
-
-**التركيز الأساسي:**
-- 🏥 التحول الرقمي في الرعاية الصحية
-- 🤖 الأنظمة الوكيلة المدعومة بالذكاء الاصطناعي
-- 🌐 الحلول ثنائية اللغة (عربي/إنجليزي)
-- 🚀 تمكين المنشآت الصغيرة والشركات الناشئة
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## 🛠️ What I'm Building | ما أبنيه
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🧠 BrainSAIT] --> B[🏥 Healthcare AI]
-    A --> C[🔐 Identity Systems]
-    A --> D[🌐 Bilingual Platforms]
-    A --> E[📚 Open Source]
-```
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🧠 **BrainSAIT Ecosystem**
-AI-powered tools and agentic systems for healthcare digital transformation, workflow automation, and SME empowerment.
-
-#### 🔐 **Unified Identity Systems**
-OID-based digital profiles for doctors, nurses, patients, and innovators.
-
-#### 🌐 **Bilingual Solutions**
-Arabic/English platforms, eBooks, courses, and apps for MENA and global audiences.
-
-#### 📚 **Open-Source Libraries**
-Python, Swift, and API SDKs for interoperable, regulation-ready healthcare solutions.
-
-</td>
-<td width="50%" dir="rtl">
-
-#### 🧠 **منظومة BrainSAIT**
-أدوات وأنظمة وكيلة مدعومة بالذكاء الاصطناعي للتحول الرقمي في الرعاية الصحية وأتمتة سير العمل وتمكين المنشآت الصغيرة والمتوسطة.
-
-#### 🔐 **أنظمة الهوية الموحدة**
-ملفات تعريف رقمية قائمة على OID للأطباء والممرضين والمرضى والمبتكرين.
-
-#### 🌐 **حلول ثنائية اللغة**
-منصات ودورات وتطبيقات بالعربية والإنجليزية للمنطقة والعالم.
-
-#### 📚 **مكتبات مفتوحة المصدر**
-Python و Swift وSDKs للحلول الصحية القابلة للتشغيل البيني والمتوافقة مع الأنظمة.
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## 🌱 Currently Learning | ما أتعلمه حالياً
-
-<div align="center">
-
-| Technology | Focus Area | التقنية | مجال التركيز |
-|:---:|:---:|:---:|:---:|
-| 🐍 | **Advanced Python** | بايثون متقدم | 🐍 |
-| 🍎 | **Swift & SwiftUI** | سويفت وSwiftUI | 🍎 |
-| 🤖 | **AI Agent Frameworks** | أطر عمل الوكلاء الذكية | 🤖 |
-| ☁️ | **Cloud Automation** | أتمتة السحابة | ☁️ |
-| ⚖️ | **Compliance Standards** | معايير الامتثال | ⚖️ |
-| 💡 | **Digital Health & Entrepreneurship** | الصحة الرقمية وريادة الأعمال | 💡 |
-
-</div>
-
-<br />
-
-## 🤝 Let's Collaborate | دعونا نتعاون
-
-<div align="center">
-
-| 🌟 Area | English | العربية | 🌟 |
-|:---:|:---|:---:|:---:|
-| **AI** | AI in healthcare & business | الذكاء الاصطناعي في الرعاية الصحية والأعمال | **الذكاء الاصطناعي** |
-| **Automation** | Workflow automation & agentic systems | أتمتة سير العمل والأنظمة الوكيلة | **الأتمتة** |
-| **Open Source** | Bilingual & inclusive digital tools | أدوات رقمية مفتوحة المصدر ثنائية اللغة | **المصدر المفتوح** |
-| **Innovation** | SME/Startup innovation in MENA | ابتكار الشركات الصغيرة والناشئة في المنطقة | **الابتكار** |
-
-</div>
-
-<br />
-
-## 💬 Ask Me About | اسألني عن
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🏥 Healthcare AI**  
-Digital transformation  
-& automation
-
-**الذكاء الاصطناعي الصحي**  
-التحول الرقمي والأتمتة
-
-</td>
-<td align="center" width="25%">
-
-**⚡ SaaS Platforms**  
-Scalable & agentic  
-systems
-
-**منصات SaaS**  
-أنظمة قابلة للتوسع  
-والوكيلة
-
-</td>
-<td align="center" width="25%">
-
-**🌐 Bilingual Tech**  
-Arabic/English  
-content & outreach
-
-**التقنية ثنائية اللغة**  
-محتوى وتواصل  
-عربي/إنجليزي
-
-</td>
-<td align="center" width="25%">
-
-**🚀 Startups**  
-MENA innovation  
-& regulated markets
-
-**الشركات الناشئة**  
-الابتكار في المنطقة  
-والأسواق المنظمة
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br />
-
-## 📫 Get in Touch | تواصل معي
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadil369)
-
-**Professional Network**  
-**الشبكة المهنية**
-
-</td>
-<td align="center">
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/brainsait369)
-
-**Updates & Insights**  
-**التحديثات والرؤى**
-
-</td>
-<td align="center">
-
-[![Calendly](https://img.shields.io/badge/Calendly-0069FF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/fadil369)
-
-**Book a Meeting**  
-**احجز موعداً**
-
-</td>
-<td align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fadil369/fadil369/issues)
-
-**Open an Issue**  
-**افتح قضية**
-
-</td>
-</tr>
-</table>
-
-**📧 Email:** *Available on request | متاح عند الطلب*
-
-</div>
-
-<br />
-
-## ⚡ Philosophy | فلسفتي
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-🧠 **Building the "collective brain"** for digital health in Saudi Arabia and beyond
-
-✨ Believe in **Original Intelligence (OI)** as much as **Artificial Intelligence (AI)**
-
-🚀 Advocating for **seamless, regulation-friendly** digital innovation
-
-🌍 **Bridging the gap** between technology and human-centered healthcare
-
-</td>
-<td width="50%" dir="rtl">
-
-🧠 **أبني "العقل الجماعي"** للصحة الرقمية في السعودية وخارجها
-
-✨ أؤمن بـ **الذكاء الأصيل (OI)** بقدر إيماني بـ **الذكاء الاصطناعي (AI)**
-
-🚀 أدعو للابتكار الرقمي **السلس والمتوافق مع الأنظمة**
-
-🌍 **أسد الفجوة** بين التكنولوجيا والرعاية الصحية الإنسانية
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br />
-
----
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadil369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9)](https://github.com/fadil369)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadil369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9)](https://github.com/fadil369)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fadil369&theme=tokyonight&hide_border=true&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9)](https://github.com/fadil369)
+**Riyadh, Saudi Arabia · UK-incorporated BrainSAIT Ltd · Arabic / English**
 
 </div>
 
 ---
 
-<div align="center">
+## From clinical practice to connected healthcare
 
-### 💝 Support My Work | ادعم عملي
+I'm **Dr. Fadil**, a physician and technology entrepreneur working at the intersection of clinical care, artificial intelligence, and business. My clinical journey began in 2010; experience in emergency care, surgical teams, and hospital claims workflows shapes the problems I choose to solve.
 
-If my work helps you, consider supporting me through:  
-إذا ساعدك عملي، فكّر في دعمي من خلال:
+Through **BrainSAIT**, I am building a digital nervous system for healthcare: connected agents, interoperable data, provider identity, and automation that helps people move from an idea to a working solution.
 
-⭐ **Star** my repositories | **نجمة** لمستودعاتي  
-🔄 **Share** my projects | **مشاركة** مشاريعي  
-🤝 **Collaborate** on open source | **التعاون** في المصدر المفتوح
+My focus is **Arabic-native clinical AI**, **Saudi healthcare interoperability**, and **human-reviewed, auditable workflows**. I care about measurable improvements in documentation quality, claims completeness, and the patient journey.
+
+<div dir="rtl">
+
+أنا **د. فاضل**، طبيب ومؤسس **برينسايت — BrainSAIT**. بدأت رحلتي السريرية عام 2010، وأسهم عملي في الطوارئ والفرق الجراحية ومسارات المطالبات بالمستشفيات في تحديد المشكلات التي أعمل على حلّها.
+
+أبني منظومة تربط الوكلاء الذكيين والبيانات الصحية وهوية مقدمي الرعاية والأتمتة؛ لتحويل الأفكار إلى حلول عملية. أركّز على الذكاء الاصطناعي السريري باللغة العربية، والتشغيل البيني في القطاع الصحي السعودي، وسير عمل قابل للتدقيق يخضع للمراجعة البشرية.
 
 </div>
+
+## What I'm building | ما أبنيه
+
+These are the main workstreams in the BrainSAIT ecosystem. Public repositories below provide implementation context; individual products have their own development and deployment milestones.
+
+| Workstream | Focus |
+| --- | --- |
+| **LINC Agent Suite** | MasterLinc orchestration; ClinicalLinc, ClaimLinc, ComplianceLinc, BridgeLinc, and RadioLinc workstreams for clinical, financial, integration, and imaging workflows. |
+| **SBS & revenue-cycle automation** | Saudi billing workflows, claims normalization, documentation completeness, rejection analysis, eligibility, and prior authorization. |
+| **BrainSAIT Provider Registry (BPR)** | Provider identity and verification; OID, IDN, and SPID identity work, provider profile passports, and provenance. |
+| **GIVC & Oasis+** | Clinician workspace and enterprise integration work: EHR access, documentation, coding assistance, and connections to hospital systems. |
+| **Basma & HNH** | Arabic/English voice experiences and connected patient-journey workflows. |
+| **MCP & automation infrastructure** | Healthcare tool connectors, per-user access, audit trails, workflow automation, and separation of read/write capabilities. |
+| **BrainSAIT Academy** | Practical learning for healthcare professionals, developers, entrepreneurs, and institutions. |
+
+### Current priorities · October 2026
+
+- **Clinical evidence:** define intended use, evaluate Arabic/English performance, and document human-review rules for clinical AI.
+- **Interoperability:** connect FHIR R4 workflows with Saudi NPHIES requirements and existing hospital systems.
+- **Provider trust:** strengthen BPR verification, identity provenance, and profile-publication workflows.
+- **Governed automation:** build traceable agent actions, role-based access, and privacy-aware data handling.
+- **Learning to delivery:** connect education, implementation, and reusable solutions through **LEARN → BUILD → SOLUTIONS**.
+
+<div dir="rtl">
+
+**الأولويات الحالية:** تقييم الذكاء السريري بالعربية والإنجليزية، وربط الأنظمة الصحية، وتعزيز التحقق من هوية مقدمي الرعاية، وبناء أتمتة قابلة للتتبّع، وتحويل التعلّم إلى تنفيذ وحلول قابلة للاستخدام.
+
+</div>
+
+## Selected public projects | مشاريع مختارة
+
+| Project | Explore |
+| --- | --- |
+| **MasterLinc** | [Medical imaging orchestration, RadioLinc, PACS/viewer integration, and communication workflows](https://github.com/Fadil369/masterlinc) |
+| **BrainSAIT RCM** | [Healthcare claims and rejections management with Saudi interoperability work](https://github.com/Fadil369/brainsait-rcm) |
+| **Healthcare MCP Extension** | [FHIR tooling, healthcare connectors, access controls, and audit capabilities](https://github.com/Fadil369/brainsait-mcp-dxt) |
+| **NPHIES Course Platform** | [Explore the healthcare interoperability learning project](https://github.com/Fadil369/nphies-course-platform) |
+| **BrainSAIT Academy** | [Explore the academy application repository](https://github.com/Fadil369/brainsait-academy) |
+| **The Republic of Cells · جمهورية الخلايا** | [A bilingual literary project exploring the human body as a living republic](https://github.com/Fadil369/republic-of-cells) |
+
+[Browse my repositories →](https://github.com/Fadil369?tab=repositories)
+
+## Engineering approach | منهجي في البناء
+
+| Layer | Tools & interests |
+| --- | --- |
+| **Services & APIs** | Python, FastAPI, TypeScript, Node.js, NestJS |
+| **Web & mobile** | Next.js, React, Expo / React Native; continued learning in Swift and SwiftUI |
+| **Infrastructure** | Cloudflare Workers, D1, R2, and Tunnels; Docker |
+| **Agents & workflows** | MCP, n8n, API integration, agent orchestration |
+| **Healthcare data** | FHIR R4, NPHIES workflows, clinical documentation, terminology, provider identity |
+| **Quality & governance** | Playwright, observability, audit trails, role-based access, privacy-aware evaluation |
+
+**Design priorities:** Arabic RTL / English LTR, usable clinician interfaces, human oversight, and evidence that can be reviewed.
+
+**Governance focus:** PDPL and CHI requirements in Saudi Arabia, with privacy and security controls appropriate to each deployment.
+
+## LEARN → BUILD → SOLUTIONS
+
+**Learn practical skills. Build around real problems. Deliver useful solutions.**
+
+| Path | Purpose |
+| --- | --- |
+| **LEARN · تعلّم** | Practical education, labs, and resources for healthcare, business, development, and institutional teams. |
+| **BUILD · ابنِ** | Turn a defined problem into a prototype, integration, or implementation through the BUILD Ticket pathway. |
+| **SOLUTIONS · حلول** | Explore healthcare workflows, reusable templates, and agent-based tools for operational needs. |
+
+[Explore BrainSAIT](https://brainsait.de) · [Portfolio & offerings](https://fadil369.github.io)
+
+## Research, teaching & writing | البحث والتعليم والكتابة
+
+I connect clinical observations with research questions, teach through practical examples, and write in Arabic and English about health, identity, technology, and human systems.
+
+My writing projects include **The Republic of Cells**, **Dark and Lemon**, **Between One Beat and Another**, and **Raising Humans**.
+
+[Google Scholar](https://scholar.google.co.jp/citations?user=G018qlYAAAAJ&hl=en) · [The Republic of Cells](https://github.com/Fadil369/republic-of-cells)
+
+<div dir="rtl">
+
+أربط الملاحظة السريرية بالسؤال البحثي، وأؤمن بالتعلّم عبر التجربة والتطبيق. أكتب بالعربية والإنجليزية عن الصحة والهوية والتقنية والأنظمة الإنسانية، ومن مشاريعي: **جمهورية الخلايا**، و**داكن وليموني — Dark and Lemon**، و**بين نبضة وأخرى**، و**Raising Humans**.
+
+</div>
+
+## Let's collaborate | لنتعاون
+
+I'm interested in working with:
+
+- **Healthcare teams** on documentation quality, claims workflows, and clinical AI evaluation.
+- **Developers and researchers** on FHIR integration, Arabic clinical NLP, provider identity, and agent tooling.
+- **Educators and institutions** on practical digital-health and AI training.
+- **Founders and partners** bringing useful healthcare technology to Saudi Arabia and MENA.
+
+[LinkedIn](https://www.linkedin.com/in/fadil369) · [Book a conversation](https://calendly.com/fadil369) · [X](https://x.com/brainsait369) · [BrainSAIT](https://brainsait.de)
 
 ---
 
 <div align="center">
 
-<sub>Built with ❤️ by Dr. Fadil | صُنع بـ ❤️ من د.فاضل</sub>
+**Original Intelligence × Artificial Intelligence**
+
+Collective brainpower. Solutions, Automated, Integrated.
+
+<div dir="rtl">ذكاء الإنسان × الذكاء الاصطناعي — حلول نبتكرها معاً لخدمة الإنسان.</div>
+
+**LEARN → DO → TEACH → SELL**
+
+<sub>Profile updated: 13 October 2026 · آخر تحديث: 13 أكتوبر 2026</sub>
 
 </div>
-
-<!--
-**Fadil369/Fadil369** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
