@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/brainsait-logo.png" alt="BrainSAIT logo: a brain combining circuits and connected nodes" width="230" />
+
 # Dr. Mohamed El Fadil Abuagla
 ### د. محمد الفاضل أبوعاقلة
 
@@ -115,6 +117,31 @@ My writing projects include **The Republic of Cells**, **Dark and Lemon**, **Bet
 <div dir="rtl">
 
 أربط الملاحظة السريرية بالسؤال البحثي، وأؤمن بالتعلّم عبر التجربة والتطبيق. أكتب بالعربية والإنجليزية عن الصحة والهوية والتقنية والأنظمة الإنسانية، ومن مشاريعي: **جمهورية الخلايا**، و**داكن وليموني — Dark and Lemon**، و**بين نبضة وأخرى**، و**Raising Humans**.
+
+</div>
+
+## Building with Codex | البناء باستخدام Codex
+
+I use AI-assisted engineering to explore ideas, develop integrations, and iterate on the BrainSAIT ecosystem.
+
+<div align="center">
+
+<img src="assets/codex-activity-2026-10-13.jpg" alt="User-provided Codex activity snapshot: 2.3 billion lifetime tokens, 214.2 million tokens on the peak day, a 1-day current streak, and a 15-day longest streak" width="800" />
+
+</div>
+
+| Metric shown in the snapshot | Value |
+| --- | --- |
+| Lifetime tokens | **2.3B** |
+| Peak-day tokens | **214.2M** |
+| Current streak | **1 day** |
+| Longest streak | **15 days** |
+
+<sub>User-provided Codex activity snapshot, shared 13 October 2026. These are Codex usage metrics; the image is a static snapshot.</sub>
+
+<div dir="rtl">
+
+أستخدم أدوات البرمجة المدعومة بالذكاء الاصطناعي لاستكشاف الأفكار وبناء التكاملات وتطوير منظومة برينسايت. تعرض الصورة إحصاءات استخدام Codex كما شاركتها في 13 أكتوبر 2026.
 
 </div>
 
